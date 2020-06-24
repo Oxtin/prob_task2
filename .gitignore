@@ -1,2 +1,2 @@
 .src/__pycache__
-./public/raw_csv_data/*.csv
+./public/raw_csv_data/*
